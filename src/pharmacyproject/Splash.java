@@ -41,7 +41,7 @@ public class Splash extends javax.swing.JFrame {
         jPanel1.setPreferredSize(new java.awt.Dimension(1000, 600));
 
         jLabel1.setFont(new java.awt.Font("Algerian", 1, 40)); // NOI18N
-        jLabel1.setText("PHARMACY MANAGEMENT SYSTEM");
+        jLabel1.setText("DIGITAL PHARMACY SOLUTIONS");
 
         MyProgressBar.setBackground(new java.awt.Color(204, 204, 204));
         MyProgressBar.setForeground(new java.awt.Color(204, 255, 0));
@@ -57,7 +57,7 @@ public class Splash extends javax.swing.JFrame {
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addComponent(MyProgressBar, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                .addContainerGap(169, Short.MAX_VALUE)
+                .addContainerGap(230, Short.MAX_VALUE)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                         .addComponent(Percentage)

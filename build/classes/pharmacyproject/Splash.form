@@ -56,7 +56,7 @@
           <Group type="103" groupAlignment="0" attributes="0">
               <Component id="MyProgressBar" alignment="0" max="32767" attributes="0"/>
               <Group type="102" alignment="1" attributes="0">
-                  <EmptySpace pref="169" max="32767" attributes="0"/>
+                  <EmptySpace pref="230" max="32767" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" alignment="1" attributes="0">
                           <Component id="Percentage" min="-2" max="-2" attributes="0"/>
@@ -96,7 +96,7 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Algerian" size="40" style="1"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="PHARMACY MANAGEMENT SYSTEM"/>
+            <Property name="text" type="java.lang.String" value="DIGITAL PHARMACY SOLUTIONS"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JProgressBar" name="MyProgressBar">
