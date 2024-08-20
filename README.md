@@ -1,4 +1,4 @@
-# Digital Pharmacy Solution
+# Digital Pharmacy Solutions
 
 ## Overview
 
