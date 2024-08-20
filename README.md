@@ -33,14 +33,17 @@ After setting up the project, you can access and use the system through the inte
 ## Screenshots
 
 Here are some screenshots of the Digital Pharmacy Solution:
+images
 
 
 - **Main Dashboard:** The main dashboard provides an overview of the system and quick access to key functionalities.
 - **Add Medicine:** The interface for adding new medicines to the system.
 - **Medicine Details:** Detailed view of a selected medicine, including all relevant information.
 - **Billing:** The billing interface where transactions are processed.
-
-*(Screenshots can be added here)*
+  
+![Main Dashboard](images/image_01.png)
+![Main Dashboard](images/image_02.png)
+![Main Dashboard](images/image_03.png)
 
 ## Contributing
 
